@@ -4,4 +4,4 @@
 
 ## Week 1
  1. 課堂作業（上午）：完成README.md檔建構
- 2. 課堂作業（下午）：This is [Week1_Rmarkdown](https://github.com/rwg00201/002/blob/master/Week1/week1_RMKD.Rmd) inline link.
+ 2. 課堂作業（下午）： [Week1_Rmarkdown](https://github.com/rwg00201/002/blob/master/Week1/week1_RMKD.Rmd) 

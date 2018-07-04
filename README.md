@@ -1,3 +1,6 @@
-# CSX_RProject_Spring_2018
+# 暑期CS+X基本能力課程
 
-106-3 R date science course
+自我介紹：台灣師範大學歷史系107級 賴蕙心
+
+## Week 1
+ 1. 課堂作業：完成README.md檔建構

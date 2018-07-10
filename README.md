@@ -12,6 +12,8 @@
    (2) Intermediate R
   
    (3) Introduction to the Tidyverse
+   
+   (4) memo：[Week1_Rmarkdown](https://rwg00201.github.io/002/Week1/week1_RMKD.html) 
  
  ## Week 2
  

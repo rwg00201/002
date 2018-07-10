@@ -7,11 +7,11 @@
  2. 課堂作業（下午）： [Week1_Rmarkdown](https://rwg00201.github.io/002/Week1/week1_RMKD.html) 
  3. 回家作業：
  
-  (1) R語言導論
+   (1) R語言導論
   
-  (2) Intermediate R
+   (2) Intermediate R
   
-  (3) Introduction to the Tidyverse
+   (3) Introduction to the Tidyverse
  
  ## Week 2
  

@@ -1,2 +1,64 @@
 
 # R basic
+1. R語言導論：
+
+基礎運算：3+4
+
+次方：3^2
+
+餘數：4%%2
+
+印出：my_var <- 4
+
+字元識別："universe"
+
+檢查：class()
+
+向量：<-c()
+
+命名：names()<-
+
+加總：sum()
+
+指定第幾項：poker_wednesday <- poker_vector[3]
+
+第幾項到第幾項：roulette_vector[2:5]
+
+平均值：mean()
+
+矩陣：matrix(1:9, byrow = TRUE, nrow = 3)
+
+第一個參數為要放進矩陣的元素，1:9 為 c(1, 2, 3, 4, 5, 6, 7, 8, 9) 的簡單寫法。
+
+第二個參數 byrow 表示在填滿矩陣時是以列的方向放入元素；如果希望以欄的方向填滿，需調整為 byrow = FALSE。
+
+第三個參數 nrow 表示矩陣有3列。
+
+命名欄名：colnames（）
+
+命名列名：rownames（）
+
+加總每列總和：rowSums(my_matrix)
+
+增加矩陣欄位：cbind() EX：big_matrix <- cbind(matrix1, matrix2, vector1 ...)
+
+rbind()
+
+因素向量：factor()
+
+摘要：summary(my_var)
+
+資料框：mtcars
+
+查看結構：str()
+
+建立資料框：data.frame(name,type,diameter, rotation, rings)
+
+篩選：subset(planets_df, subset = rings)
+
+排序：order()函數會回傳投入變數的排序順位，例如：
+> a <- c(100, 10, 1000)
+> order(a)
+[1] 2 1 3
+
+list()函數建立一個清單

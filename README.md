@@ -16,4 +16,5 @@
    (4) memo：[Week1_Rmarkdown](https://rwg00201.github.io/002/Week1/week1_RMKD.html) 
  
  ## Week 2
+ 1. 課堂作業（上午）：[ggplot2繪圖](https://rwg00201.github.io/002/Week2/week2_RMKD.html)
  

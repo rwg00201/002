@@ -1,0 +1,20 @@
+
+```{r}
+library(readxl)
+library(ggplot2)
+
+iris
+
+ggplot(data = iris, aes(x = Petal.Width)) +
+  geom_bar(fill = "red", colour = "black")
+
+ggplot(data = iris, aes(x = Sepal.Length)) +
+  geom_histogram(fill="pink", colour="black")
+
+ggplot(data = iris, aes(x = Species, y=Petal.Width)) +
+  geom_point()
+
+ggplot(iris, aes(x=Species, y=Petal.Width)) +
+  geom_boxplot()
+
+```

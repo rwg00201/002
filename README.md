@@ -22,7 +22,7 @@
 
 
 ## Week 3
- 1. 課堂作業（上午）：EDA探索
+ 1. 課堂作業（上午）：[EDA筆記](https://rwg00201.github.io/002/Week3/EDA筆記.html)
  2.
 
 
@@ -33,8 +33,7 @@
 
 
 ##Week 5
-
-
+1.課堂介紹：Shiny
 
 
 

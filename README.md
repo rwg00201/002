@@ -21,8 +21,24 @@
  
 
 
+## Week 3
+ 1. 課堂作業（上午）：EDA探索
+ 2.
 
 
 
-##Week 3
+##Week 4
 1. 
+
+
+
+##Week 5
+
+
+
+
+
+
+##Week 6
+1. [PPT](/Users/linjung-chin/Desktop/CS-X資料夾/001/Week6/PPT.pdf)
+2. Final Projet

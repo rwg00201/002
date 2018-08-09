@@ -40,5 +40,5 @@
 
 
 ##Week 6
-1. [PPT](/Users/linjung-chin/Desktop/CS-X資料夾/001/Week6/PPT.pdf)
+1. [PPT](https://rwg00201.github.io/002/Week6/PPT.pdf)
 2. Final Projet

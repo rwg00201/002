@@ -23,21 +23,21 @@
 
 ## Week 3
  1. 課堂作業（上午）：[EDA筆記](https://rwg00201.github.io/002/Week3/EDA筆記.html)
- 2.
+ 2. 課堂作業（下午）：[TEXT MINING]()
 
 
 
-##Week 4
-1. 
+## Week 4
+ 1. 
 
 
 
-##Week 5
+## Week 5
 1.課堂介紹：Shiny
 
 
 
 
-##Week 6
+## Week 6
 1. [PPT](https://rwg00201.github.io/002/Week6/PPT.pdf)
 2. Final Projet

@@ -10,8 +10,8 @@ library(survival)
 library(Formula)
 
 
-showtext.auto(enable = TRUE)
-font.add("細明體", " 細明體.otf")
+
+
 
 da<-read_excel("/Users/linjung-chin/Desktop/CS-X資料夾/001/week4/問卷整理DATA.xlsx")
 
@@ -35,29 +35,7 @@ ggplot(data = da , aes(x = 每日工時, y = 薪資狀態)) +
 
 #根據圖表可見月薪65000以上的工作明顯工時較高
 
-#計算其信賴區間
-with(da, 
-     tapply(薪資狀態, 每日工時,
-            function(x) 
-              c(mean(x) + c(-2, 2) * sd(x)/sqrt(length(x)))))
 
-
-
-
-
-##分析工作類別與工時的關係
-library(Hmisc)
-
-tapply(da$每日工時, da$工作類別, mean)
-
-ggplot(data = da,  
-       aes(x = 工作類別, y = 每日工時 )) +
-  stat_summary(fun.data = 'mean_cl_boot', size = 0.5) +
-  scale_y_continuous(breaks = seq(1,24, by = 1)) +
-  geom_hline(yintercept = mean(da$每日工時) , 
-             linetype = 'dotted') +
-  labs(x = '工作類別 ', y = '每日工時l') +
-  coord_flip()
 
 #由圖表可知行業之間並無大量工時差異
 

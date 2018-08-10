@@ -21,8 +21,6 @@ library(survival)
 library(Formula)
 
 
-showtext.auto(enable = TRUE)
-font.add("細明體", " 細明體.otf")
 
 da<-read_excel("/Users/linjung-chin/Desktop/CS-X資料夾/001/week4/問卷整理DATA.xlsx")
 

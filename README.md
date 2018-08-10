@@ -28,16 +28,15 @@
 
 
 ## Week 4
- 1. 
+ 1. 課堂作業：[深度EDA分析]()
 
 
 
 ## Week 5
-1.課堂介紹：Shiny
-
+ 1.課堂介紹：Shiny
 
 
 
 ## Week 6
-1. [PPT](https://rwg00201.github.io/002/Week6/PPT.pdf)
-2. Final Projet
+ 1. [PPT](https://rwg00201.github.io/002/Week6/PPT.pdf)
+ 2. Final Projet

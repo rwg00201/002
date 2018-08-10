@@ -28,7 +28,7 @@
 
 
 ## Week 4
- 1. 課堂作業：[深度EDA分析]()
+ 1. 課堂作業：[深度EDA分析](https://rwg00201.github.io/002/Week4/EDA深度分析.html)
 
 
 
